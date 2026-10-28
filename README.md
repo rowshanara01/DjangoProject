@@ -134,6 +134,6 @@ This project is licensed under the MIT License.
 
 # Author
 
-**Rowshanara Akhter**
+*Rowshanara Akhter*
 
 - GitHub: [@rowshanara01](https://github.com/rowshanara01)
