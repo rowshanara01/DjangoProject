@@ -8,7 +8,6 @@ A Python web application with HTML templates and a clean, responsive interface.
 ![Python](https://img.shields.io/badge/Python-20.8%25-3776ab)
 ![CSS](https://img.shields.io/badge/CSS-1.5%25-563d7c)
 
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
 
 ## 📌 About
 
