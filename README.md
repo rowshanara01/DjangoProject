@@ -101,7 +101,7 @@ project-name/
 
 6. Open your browser and visit `http://127.0.0.1:5000` (Flask) or `http://127.0.0.1:8000` (Django)
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 If your project uses environment variables, create a `.env` file in the root folder:
 
