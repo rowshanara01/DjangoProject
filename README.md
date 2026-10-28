@@ -112,13 +112,13 @@ DEBUG=True
 
 > Never commit your `.env` file to GitHub. Make sure it is listed in `.gitignore`.
 
-## 📸 Screenshots
+#Screenshots
 
 ```md
 ![Home Page](screenshots/home.png)
 ```
 
-## 🤝 Contributing
+# Contributing
 
 Contributions, issues and feature requests are welcome.
 
@@ -128,11 +128,11 @@ Contributions, issues and feature requests are welcome.
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-## 📄 License
+# License
 
 This project is licensed under the MIT License.
 
-## 👩‍💻 Author
+# Author
 
 **Rowshanara Akhter**
 
