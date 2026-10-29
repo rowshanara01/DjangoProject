@@ -47,7 +47,7 @@ project-name/
 
 #### Getting Started ####
 
-# Prerequisites
+#### Prerequisites
 
 - [Python 3.10+](https://www.python.org/downloads/)
 - pip (comes with Python)
