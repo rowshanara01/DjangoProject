@@ -13,7 +13,7 @@ A Python web application with HTML templates and a clean, responsive interface.
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
-####Features#####
+#### Features #####
 
 - Python back-end with server-rendered HTML templates
 - Clean and responsive user interface
