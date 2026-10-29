@@ -52,7 +52,7 @@ project-name/
 - [Python 3.10+](https://www.python.org/downloads/)
 - pip (comes with Python)
 
-# Installation
+# Installation #
 
 1. Clone the repository
 
