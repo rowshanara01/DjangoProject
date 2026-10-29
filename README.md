@@ -1,6 +1,6 @@
 #### FoodNetwork_DjangoProject####
 Here our project name is FoodNetwork.
-#####Project Name #####
+##### Project Name #####
 
 A Python web application with HTML templates and a clean, responsive interface.
 
