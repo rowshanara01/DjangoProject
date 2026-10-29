@@ -29,7 +29,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - **CSS3** – styling
 - **SQLite / MySQL** – database (update or remove as needed)
 
-#  Project Structure
+####Project Structure
 
 ```
 project-name/
