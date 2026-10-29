@@ -21,7 +21,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - Easy setup using a virtual environment
 - Simple to extend with new pages and features
 
-#####Tech Stack
+#####Tech Stack ####
 
 - **Python** (3.10 or higher recommended) – back-end logic
 - **Flask** or **Django** – web framework (keep the one you use)
