@@ -71,7 +71,7 @@ project-name/
    ```bash
    python -m venv venv
 
-   # Windows #
+   #### Windows ####
    venv\Scripts\activate
 
    # macOS / Linux
