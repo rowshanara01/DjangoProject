@@ -118,7 +118,7 @@ DEBUG=True
 ![Home Page](screenshots/home.png)
 ```
 
-#### Contributing
+#### Contributing ####
 
 Contributions, issues and feature requests are welcome.
 
