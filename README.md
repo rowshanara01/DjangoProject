@@ -33,8 +33,8 @@ Replace this paragraph with a short description of your project: what it does, w
 
 ```
 project-name/
-├── app.py                # Main application file (Flask) or manage.py (Django)
-├── templates/            # HTML templates
+├── app.py                #### Main application file (Flask) or manage.py (Django)
+├── templates/            #### HTML templates
 │   ├── base.html
 │   └── index.html
 ├── static/
